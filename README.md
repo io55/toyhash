@@ -20,5 +20,5 @@ local Hash = Toyhash('hello world')
 ```lua
 Toyhash = require('toyhash')
 local Hash = Toyhash { 'hello', 'world' , {a = 1, b = 2} }
-print(Hash)
+print(Hash) -- 814573234067
 ```
